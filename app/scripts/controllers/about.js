@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc function
- * @name angularApp.controller:AboutCtrl
+ * @name coopwebclassioApp.controller:AboutCtrl
  * @description
  * # AboutCtrl
- * Controller of the angularApp
+ * Controller of the coopwebclassioApp
  */
-angular.module('angularApp')
+angular.module('coopwebclassioApp')
   .controller('AboutCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',

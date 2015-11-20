@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name angularApp
+ * @name coopwebclassioApp
  * @description
- * # angularApp
+ * # coopwebclassioApp
  *
  * Main module of the application.
  */
 angular
-  .module('angularApp', [
+  .module('coopwebclassioApp', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
